@@ -1,6 +1,6 @@
 # gem
 
-gem is a turn-based strategy game where only the protagonist is aware of conflict. Traditional enemies are allies when your goal is unclear and your friends are always there to help... with something else.
+gem is a turn-based RPG where only the protagonist is aware of conflict. Traditional enemies are allies when your goal is unclear and your friends are always there to help... with something else.
 
 With a procedurally-generated world and the option to add your friends’ characters to your own, there’s no limit to the possibilities.
 
