@@ -24,5 +24,4 @@ To setup your env automatically, or troubleshoot a corrupted env:
 
 ## Credit
 
-Adam Raposo
-Ryan Raposo
+A game by Adam & Ryan Raposo
