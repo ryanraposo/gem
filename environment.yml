@@ -1,0 +1,8 @@
+name: gem
+channels:
+  - defaults
+dependencies:
+  - pip=21.2.4=py39haa95532_0
+  - python=3.9.12=h6244533_0
+  - pip:
+    - pygame==2.1.2
