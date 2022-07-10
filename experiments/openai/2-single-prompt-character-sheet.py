@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "YOUR_KEY_HERE"
+openai.api_key = os.environ.get("OPENAI_API_KEY") 
 completion = openai.Edit.create(
     model="text-davinci-edit-001",
     input="There are three possible traits: power-hungry, lonely, violent.\n\nRYAN\n\nTRAIT: ___\nLIFE GOAL: ____\nVIDEO-GAME STYLE ENEMY NAME: ____\nENEMY ATTACK NAME: ____\nENEMY WEAK TO ATTACK NAMED: ____\nALWAYS CARRY: ____\nFAVOURITE PHRASE: ____\n\n",
