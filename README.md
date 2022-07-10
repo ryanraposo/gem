@@ -21,3 +21,8 @@ To setup your env automatically, or troubleshoot a corrupted env:
 1. Activate the `base` conda env: `conda activate base` or `conda deactivate`
 2. Delete the `gem` env (if it exists): `conda env remove -n gem`
 2. Setup env from file: `conda env create -f environment.yml`
+
+## Credit
+
+Adam Raposo
+Ryan Raposo
